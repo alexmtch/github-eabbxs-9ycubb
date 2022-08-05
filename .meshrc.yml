@@ -2,10 +2,9 @@ sources:
   - name: Hello World
     handler:
       jsonSchema:
-        noDeduplication: true
+        baseUrl: 'https://raw.githubusercontent.com/alexmtch/github-eabbxs-9ycubb/main/schemas/responseSample.json'
         operations:          
           - type: Query
             field: myobject
             method: GET
             responseSchema: schemas/schema.json#/definitions/MyObject
-            responseSample: schemas/responseSample.json
