@@ -1,0 +1,13 @@
+{
+  "definitions": {
+    "MyObject": {
+      "title": "MyObject",
+      "type": "object",
+      "properties": {
+        "content": {
+          "$ref": "content.json"
+        }
+      }
+    }
+  }
+}

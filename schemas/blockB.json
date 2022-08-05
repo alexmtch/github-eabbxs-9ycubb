@@ -1,0 +1,12 @@
+{
+  "title": "BlockB",
+  "type": "object",
+  "properties": {
+    "type": {
+      "enum": ["block_b"]
+    },
+    "bazProperty": {
+      "type": "text"
+    }
+  }
+}

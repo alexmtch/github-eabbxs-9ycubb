@@ -1,0 +1,13 @@
+{
+  "title": "MyObjectBlocks",
+  "items": {
+    "oneOf": [
+      {
+        "$ref": "blockA.json"
+      },
+      {
+        "$ref": "blockB.json"
+      }
+    ]
+  }
+}

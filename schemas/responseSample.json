@@ -1,0 +1,14 @@
+{
+  "content": {
+    "blocks": [
+      {
+        "type": "block_a",
+        "fooProperty": "bar"
+      },
+      {
+        "type": "block_b",
+        "bazProperty": "bar"
+      }
+    ]
+  }
+}

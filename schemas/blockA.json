@@ -1,0 +1,12 @@
+{
+  "title": "BlockA",
+  "type": "object",
+  "properties": {
+    "type": {
+      "enum": ["block_a"]
+    },
+    "fooProperty": {
+      "type": "text"
+    }
+  }
+}

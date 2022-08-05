@@ -1,0 +1,9 @@
+{
+  "title": "MyObjectContent",
+  "type": "object",
+  "properties": {
+    "blocks": {
+      "$ref": "blocks.json"
+    }
+  }
+}
